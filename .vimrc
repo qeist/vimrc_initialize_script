@@ -1,0 +1,10 @@
+" https://github.com/qeist/vimrc_initialize_script
+set cindent
+set smartindent
+set autoindent
+set tabstop=4
+set nu
+set nowrap
+set ff=unix
+set bg=dark
+set ruler
